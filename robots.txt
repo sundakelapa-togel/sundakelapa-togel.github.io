@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sundakelapa-togel.github.io/sitemap.xml
+Sitemap: http://sundakelapa-togel.github.io/sitemap.xml
+Sitemap: sundakelapa-togel.github.io/sitemap.xml
